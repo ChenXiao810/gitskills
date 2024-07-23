@@ -1,1 +1,2 @@
 quick git a new branch
+这是main分支的文件

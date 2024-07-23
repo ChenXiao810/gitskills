@@ -1,3 +1,4 @@
 quick git a new branch
 这是混合之后的文件
 再加点东西,反正之后要删
+又是一个bug 测试
